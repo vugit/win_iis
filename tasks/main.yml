@@ -9,4 +9,4 @@
 - name: website-template
   template:
     src: index.html.j2
-    dest: "C:\\inetpub\\www\\index.html"
+    dest: "C:\\inetpub\\wwwroot\\index.html"
